@@ -47,3 +47,7 @@ We are on [Discord](https://discord.gg/c7MnfGFGa6) and [Gitter](https://gitter.i
 ## List of Algorithms
 
 See our [directory](DIRECTORY.md) for easier navigation and a better overview of the project.
+What are algorithms in Python? Python algorithms are a set of instructions that are executed to get the solution to a given problem. Since algorithms are not language-specific, they can be implemented in several programming languages. No standard rules guide the writing of algorithms.
+examples;
+mylist=[1,2,3,4]
+print(id(my list[0])]
